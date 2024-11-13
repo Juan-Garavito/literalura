@@ -1,4 +1,4 @@
-# Convertidor de texto de Texto
+# LiterAlura
 
 ![LiterAlura](src/main/resources/static/literalura.png)
 
